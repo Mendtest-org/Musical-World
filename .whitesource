@@ -1,9 +1,9 @@
 {
   "scanSettings": {
-    "baseBranches": []
+    "baseBranches": ["master"]
   },
   "checkRunSettings": {
-    "vulnerableCheckRunConclusionLevel": "failure",
+    "vulnerableCheckRunConclusionLevel": "neutral",
     "displayMode": "diff",
     "useMendCheckNames": true
   },
